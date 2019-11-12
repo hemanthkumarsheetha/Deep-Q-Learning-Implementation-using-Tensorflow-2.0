@@ -4,7 +4,7 @@ This is my DQN implementation with Experience Replay.
 
 In this implementation, I have used Pacman environment of Atari OpenAI Gym. I've trained the DQN for an hour. It yielded reasonable learning results as the number of episodes increased. 
 
-I trained for longer hours it will yield great results.
+If the network is trained for longer hours it will yield great results.
 
 We can implement various OpenAI gym environments in the DQN.
 
